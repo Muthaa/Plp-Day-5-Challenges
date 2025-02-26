@@ -1,4 +1,4 @@
-# Define two sets with words
+# Define two sets 
 Gamers = {"Mike", "Joe", "Peter", "Lue", "Ann", "Ced", "Chleo"}
 BookHeads = {"Chleo", "Sue", "Ben", "Hoser", "Anna", "Joe"}
 
