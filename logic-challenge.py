@@ -8,7 +8,7 @@ os.system("cls")
 
 while True:
     print("""   |||Coffee/Tea Machine Decision Maker|||   """)
-    print()"""  ----------------------------------- """
+    print("""  ----------------------------------- """)
     print()
 
     try:
