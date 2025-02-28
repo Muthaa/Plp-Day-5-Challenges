@@ -102,4 +102,6 @@ def binary_calculator():
         print(f"Error: {e}")
 
 # Run the binary calculator
-binary_calculator()
+if __name__ == "__main__":
+    binary_calculator()
+
